@@ -3,5 +3,5 @@
 
 # members
 - 김민근 (kevin@mingeun.com)
-- 정지용
+- 정지용 (stopdragon@sharpzerosix.com)
 - 이건호
